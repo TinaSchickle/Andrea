@@ -77,9 +77,7 @@ body {
   width: 1200px;
   justify-content: center;
   padding-top: 10px;
-  transform: translateX(
-    34%
-  ); /*here I was cheating a bit since it didnt wanna work :D*/
+ 
   /* border: 3px solid blue; */
 }
 
@@ -94,8 +92,7 @@ body {
 
 .fourthContainer h2 {
   position: relative;
-  right: 50%;
-  transform: translateX(50%);
+
   margin-top: 100px;
   margin-bottom: 15px;
   padding: 0;
